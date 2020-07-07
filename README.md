@@ -1,0 +1,6 @@
+# Temperature-Data
+a simple project ( my first actually ) using matplotlib ummm.... thats all
+
+k so basically i wanted to play with matplot lib....
+idk what a repo is yet but umm....
+k bye enjoy
